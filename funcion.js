@@ -12,7 +12,6 @@ const makeFigure = function (size) {
     let rf = figure.length
     let ci = 0
     let cf = figure[0].length
-    let cont = 1 
 
     while (ci < cf && ri < rf){
 
